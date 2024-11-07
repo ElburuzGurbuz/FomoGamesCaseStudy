@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6c36157bdf649bb90b05e3f2c5d2a0, type: 3}
+  m_Name: UISettings
+  m_EditorClassIdentifier: 
+  ShowMoney: 0
+  ShowLevelIndicator: 1
+  ShowSettingsIndicator: 1
+  WinLevelWithMoney: 0
+  LevelNameLevelIndicator: Level
+  ShowSettingElementList:
+  - SettingType: 1
+    ShowSettingElement: 0
+  - SettingType: 2
+    ShowSettingElement: 1

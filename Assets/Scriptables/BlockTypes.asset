@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f3a6b26851e7641916f636b13216af, type: 3}
+  m_Name: BlockTypes
+  m_EditorClassIdentifier: 
+  BlockTypeArray:
+  - BlockObj: {fileID: 2581960743157464112, guid: 6c40e068229f1924f90fd734d47a7ca9, type: 3}
+    ColorId: 2
+    Length: 1
+    Orientation: 0
+  - BlockObj: {fileID: 8348758134414008178, guid: b806922af7ef105438805303b8858055, type: 3}
+    ColorId: 2
+    Length: 2
+    Orientation: 0
+  - BlockObj: {fileID: 2177286061886873428, guid: d832e778f499caf448b88548f9627114, type: 3}
+    ColorId: 2
+    Length: 1
+    Orientation: 1
+  - BlockObj: {fileID: 4180510649198501144, guid: 0f09a1150faa6d4419004ebd9e745d2b, type: 3}
+    ColorId: 2
+    Length: 2
+    Orientation: 1
+  - BlockObj: {fileID: 181684111984303930, guid: 9fb4b43aa5203ef41a6c6dd030dadbf9, type: 3}
+    ColorId: 1
+    Length: 1
+    Orientation: 0
+  - BlockObj: {fileID: 7004248320615730470, guid: 5b21cd10d09ef9841825da2904a90510, type: 3}
+    ColorId: 1
+    Length: 2
+    Orientation: 0
+  - BlockObj: {fileID: 5082575480092468930, guid: 744e71c7b8dca2e4bbf4353f7efa5d9f, type: 3}
+    ColorId: 1
+    Length: 1
+    Orientation: 1
+  - BlockObj: {fileID: 7505794365326674179, guid: bd5196281872b3345b8f713d35ff2864, type: 3}
+    ColorId: 1
+    Length: 2
+    Orientation: 1
+  - BlockObj: {fileID: 8879913499587559753, guid: 9a46ba9267600854abfa47d07688dbd3, type: 3}
+    ColorId: 4
+    Length: 1
+    Orientation: 0
+  - BlockObj: {fileID: 1538590421399255904, guid: d09d58eb1bd9fea4a98b0c53157c1a5f, type: 3}
+    ColorId: 4
+    Length: 2
+    Orientation: 0
+  - BlockObj: {fileID: 4736826946447800127, guid: de93563af8894fc43a5e453aa2f18e50, type: 3}
+    ColorId: 4
+    Length: 1
+    Orientation: 1
+  - BlockObj: {fileID: 1538590421399255904, guid: d09d58eb1bd9fea4a98b0c53157c1a5f, type: 3}
+    ColorId: 4
+    Length: 2
+    Orientation: 1
+  - BlockObj: {fileID: 819887098837043384, guid: 1b3e9191918f36349b22cadd54a01545, type: 3}
+    ColorId: 0
+    Length: 1
+    Orientation: 0
+  - BlockObj: {fileID: 3340582607610431265, guid: b8b56f19e232e48469c05abe3dd3086c, type: 3}
+    ColorId: 0
+    Length: 2
+    Orientation: 0
+  - BlockObj: {fileID: 5017914834303007843, guid: 17784e5a3308a1a4a855ddd1011b2273, type: 3}
+    ColorId: 0
+    Length: 1
+    Orientation: 1
+  - BlockObj: {fileID: 5933960738063945656, guid: f331c545f267f8248a30188dd9154245, type: 3}
+    ColorId: 0
+    Length: 2
+    Orientation: 1
+  - BlockObj: {fileID: 6430646497558472600, guid: 07fab12248a6ca9478860d9ed85824cb, type: 3}
+    ColorId: 3
+    Length: 1
+    Orientation: 0
+  - BlockObj: {fileID: 4060885599164669800, guid: 4a4ec935a45bd3d4d9ea136254be02de, type: 3}
+    ColorId: 3
+    Length: 2
+    Orientation: 0
+  - BlockObj: {fileID: 2633602744997274807, guid: 41b9687931c4f1e4d87c8fb5fe9622f9, type: 3}
+    ColorId: 3
+    Length: 1
+    Orientation: 1
+  - BlockObj: {fileID: 1835860533255682605, guid: 5702055e3008258488e90a1d62b3308f, type: 3}
+    ColorId: 3
+    Length: 2
+    Orientation: 1
